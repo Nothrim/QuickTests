@@ -6,4 +6,6 @@ public class SumTest {
   public static final String POTATO = "POTATO";
   void asd() {}
 
+  void asd2() {}
+
 }
