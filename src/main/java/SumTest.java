@@ -8,4 +8,5 @@ public class SumTest {
   void asd2() {}
   void asd() {
   }
+  void asd3 () {}
 }
